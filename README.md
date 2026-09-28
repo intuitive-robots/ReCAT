@@ -13,13 +13,7 @@ python3 -m http.server 8000
 # http://localhost:8000/index.html
 ```
 
-## TODO before publishing
 
-- Check author affiliations (Mizrakli and Hatab are currently listed under KIT IRL).
-- Fill in the **Paper**, **arXiv** and **Code** links in `index.html` (they currently use `href="#"` and are greyed out).
-- Replace the video placeholder (`<div class="video-slot">`) with the supplementary video.
-- Update the BibTeX once the arXiv ID is known.
-- Set up a new GitHub repo / Pages site for this folder (it is separate from the DAM-VLA repo).
 
 ## Template credit
 
